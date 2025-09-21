@@ -1,7 +1,7 @@
 # CORD-19 Abstracts Explorer
 
 This project is a simplified data analysis of the [CORD-19 research dataset](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge), focusing on metadata of COVID-19 papers (titles, abstracts, and URLs).  
-The goal was to practice **loading real-world data, cleaning it, analyzing text, and building an interactive Streamlit app** for exploration.  
+The goal was to practice **loading real-world data, cleaning it, analyzing text, and building an interactive Streamlit app** for exploration, but i downloaded a simple small covid abstract csv to work with. 
 
 ---
 
